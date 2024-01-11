@@ -6,14 +6,11 @@ J'ai choisi de réaliser ce test en Vue.js et non en HTML, CSS et JS, car je pen
 
 Pour ce qui est des objectifs, j'ai :- respecté la maquette fournie- récupéré les données de l'API en PHP mais n'ai pas eu le temps de les update (PUT)- fait fonctionner l'appli- utilisé Vue.js
 
-Déroulé de la journée :
-9:00 - 9:10 : Découverte de l'énoncé
-9:10 - 9:35 : Découverte de l'API, requête pour le auth token, premières requêtes de tests, avec Postman
-9:35 - 12:30 : Développement du front-end
+Déroulé de la journée :  
+9:00 - 9:10 : Découverte de l'énoncé  
+9:10 - 9:35 : Découverte de l'API, requête pour le auth token, premières requêtes de tests, avec Postman  
+9:35 - 12:30 : Développement du front-end  
 13:30 - 16:30 : Développement du back-end et liaisons avec le front-end
-
-Repo Github:
-https://github.com/KillianVbrg/uppler-assignment
 
 
 J'espère que vous apprécierez étudier mon travail autant que j'ai apprécié le réaliser, bonne journée à vous, à bientôt,
